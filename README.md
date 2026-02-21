@@ -1,2 +1,2 @@
-# chromatic
+# Chromatic Browser™
 CHROMATIC BROWSER [WIP]
