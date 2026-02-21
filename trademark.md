@@ -1,5 +1,5 @@
 <h1>Chromatic Trademark Policy</h1>
-<p>"Chromatic" and the Chromatic logo are trademarks of <strong>Tytus</strong>.</p>
+<p>"Chromatic" and the Chromatic logo are trademarks of <strong>Scemercat1</strong>.</p>
 
 <h2>Allowed</h2>
 <img src="https://images.unsplash.com/photo-1532635220-cf8f0e3d13a4?crop=entropy&cs=tinysrgb&fit=max&h=80&w=80" alt="people" style="width:80px;height:80px;border-radius:10px;vertical-align:middle;margin-right:10px;">
@@ -21,5 +21,5 @@
     ✅ Use the code for personal or commercial projects (with new branding)
 </span>
 
-<p>Contact: <strong>youremail@example.com</strong><br>
-All rights reserved © 2026 Tytus</p>
+<p>Contact: <strong>junethecat07@gmail.com</strong><br>
+All rights reserved © 2026 Scemercat1</p>
