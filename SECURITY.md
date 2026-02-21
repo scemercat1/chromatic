@@ -8,7 +8,7 @@
 
 If you discover a security issue in Chromatic Browser, please follow these steps:
 
-1. Send a detailed report to **security@chromaticbrowser.com** (or youremail@example.com).  
+1. Send a detailed report to **junethecat07@gmail.com** .  
 2. Include the following information:
    - Steps to reproduce the issue
    - Version of Chromatic Browser affected
