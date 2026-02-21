@@ -4,13 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Chromatic License</title>
-<style>
-    body { font-family: Arial, sans-serif; background: #f4f4f9; color: #222; padding: 20px; max-width: 900px; margin: auto; }
-    h1 { color: #004aad; }
-    p, li { font-size: 16px; line-height: 1.5; }
-    a { color: #004aad; text-decoration: none; }
-    .cc-icons img { max-width: 1em; max-height: 1em; margin-left: .2em; vertical-align: text-bottom; }
-</style>
+<
 </head>
 <body>
     <h1>Chromatic Browser License</h1>
