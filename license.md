@@ -3,12 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<
 </head>
 <body>
     <h1>Chromatic Browser License</h1>
     <p>
-        Chromatic Browser © 2026 by <strong>Tytus</strong> is licensed under the 
+        Chromatic Browser © 2026 by <strong>Scemercat1</strong> is licensed under the 
         <a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License 2.0</a> 
         and follows a Creative Commons style guideline for branding:
         <span class="cc-icons">
@@ -31,6 +30,6 @@
         <li>❌ Do NOT use the Chromatic logo without permission</li>
     </ul>
 
-    <p>For questions regarding commercial use or trademarks, contact: <strong>youremail@example.com</strong></p>
+    <p>For questions regarding commercial use or trademarks, contact: <strong>junethecat07@gmail.com</strong></p>
 </body>
 </html>
