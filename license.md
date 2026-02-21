@@ -14,22 +14,18 @@
             <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC">
             <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY">
             <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC">
-        </span>
-    </p>
 
-    <h2>Permissions</h2>
-    <ul>
-        <li>✅ View, copy, and modify the source code</li>
-        <li>✅ Use it commercially</li>
-        <li>✅ Redistribute modified versions</li>
-    </ul>
+    Permissions
+    
+        ✅ View, copy, and modify the source code
+        ✅ Use it commercially
+        ✅ Redistribute modified versions
+    
 
-    <h2>Restrictions</h2>
-    <ul>
-        <li>❌ Do NOT use the name "Chromatic" for modified versions</li>
-        <li>❌ Do NOT use the Chromatic logo without permission</li>
-    </ul>
+    Restrictions
+    
+        ❌ Do NOT use the name "Chromatic" for modified versions
+        ❌ Do NOT use the Chromatic logo without permission
+    
 
-    <p>For questions regarding commercial use or trademarks, contact: <strong>junethecat07@gmail.com</strong></p>
-</body>
-</html>
+For questions regarding commercial use or trademarks, contact: <strong>junethecat07@gmail.com
